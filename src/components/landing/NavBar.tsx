@@ -39,7 +39,7 @@ const NavBar = () => {
     setIsScrolled(current >= 10),
   );
 
-  console.log(isScrolled);
+  // console.log(isScrolled);
   return (
     <nav
       className={cn(
